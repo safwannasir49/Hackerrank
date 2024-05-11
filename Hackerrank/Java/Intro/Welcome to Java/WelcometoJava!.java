@@ -1,4 +1,4 @@
-package Hackerrank.Java;
+import java.util.*;
 
 class Solution {
 
