@@ -21,6 +21,7 @@ class Solution{
         else{
         System.out.println("Weird");
         }
+        
 
         scanner.close();
     }
