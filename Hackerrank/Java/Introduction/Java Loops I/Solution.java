@@ -18,3 +18,4 @@ public class Solution {
       sc.close();    
     }
 }
+
