@@ -3,4 +3,4 @@ safwannasir49
 
 HackerRank Certificates
 
-[https://www.hackerrank.com/certificates/9ed81018b290](https://github.com/safwannasir49/SkillsCertification/blob/main/sql_basic%20certificate.pdf)
+![image](https://github.com/safwannasir49/Hackerrank/assets/127377148/0f32dc5e-d3c4-47f8-a09e-7585053dcdf3)(https://github.com/safwannasir49/SkillsCertification/blob/main/sql_basic%20certificate.pdf)
