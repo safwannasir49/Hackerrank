@@ -5,7 +5,7 @@ safwannasir49
 
 
 
-# View My HackerRank Profile
+# My HackerRank Profile
 
 <a href="https://www.hackerrank.com/profile/safwannasir49">
   <img src="https://github.com/safwannasir49/Hackerrank/assets/127377148/eb1d3279-c4ff-4e49-80c8-fa251e75433b" alt="Profile Icon" style="width: 50px; height: 50px;">
