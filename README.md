@@ -5,7 +5,7 @@ safwannasir49
 
 HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/profile/safwannasir49)
+[![Profile Icon](https://www.vecteezy.com/free-vector/profile-icon)](https://www.hackerrank.com/profile/safwannasir49) [View Profile](https://www.hackerrank.com/profile/safwannasir49)
 
 
 
