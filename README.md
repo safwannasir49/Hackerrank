@@ -6,7 +6,6 @@
 HackerRank | Practice, Tutorials & Interview Preparation Solutions
 This repository consists of solutions to HackerRank practice, tutorials, and interview preparation problems with Python, SQL, C++, and Java.
 
-
 # HackerRank Bagdes
 <a>
 <img alt="Java" src="https://raw.githubusercontent.com/safwannasir49/HackerRank/master/Badges/java_5_star.png" width="110" style="max-width: 100%;">
