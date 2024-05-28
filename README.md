@@ -1,9 +1,11 @@
 safwannasir49
 
 <a href="https://www.hackerrank.com/safwannasir49" rel="nofollow">
-<img alt="HackerRank Logo | Safwan Nasir Profile" src="https://camo.githubusercontent.com/92832e92ae1a6e091262b1ae8ccbd36d30be146deff37aa918f3cf87bc0c80e5/68747470733a2f2f687263646e2e6e65742f66636f72652f6173736574732f6272616e642f747970656d61726b5f3630783230302d373433356234326432302e737667" width="450" data-canonical-src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" style="max-width: 100%;">
-    </a>
+<img alt="HackerRank Logo | Safwan Nasir Profile"                 src="https://camo.githubusercontent.com/92832e92ae1a6e091262b1ae8ccbd36d30be146deff37aa918f3cf87bc0c80e5/68747470733a2f2f687263646e2e6e65742f66636f72652f6173736574732f6272616e642f747970656d61726b5f3630783230302d373433356234326432302e737667" width="450" data-canonical-src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" style="max-width: 100%;">
+ </a>
 
+HackerRank | Practice, Tutorials & Interview Preparation Solutions
+This repository consists of solutions to HackerRank practice, tutorials, and interview preparation problems with Python, SQL, C++, and Java.
 
 
 
