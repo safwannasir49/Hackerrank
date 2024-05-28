@@ -9,7 +9,7 @@ This repository consists of solutions to HackerRank practice, tutorials, and int
 
 # HackerRank Bagdes
 <a>
-<img alt="Java" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/java_5_star.png" width="110" style="max-width: 100%;">
+<img alt="Java" src="https://raw.githubusercontent.com/safwannasir49/HackerRank/master/Badges/java_5_star.png" width="110" style="max-width: 100%;">
 </a>
 
 
